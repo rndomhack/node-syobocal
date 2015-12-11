@@ -1,5 +1,5 @@
 {
-  "name": "node-syobocal",
+  "name": "syobocal",
   "version": "1.0.0",
   "description": "syobocal for node.js",
   "main": "index.js",
